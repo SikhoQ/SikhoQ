@@ -17,7 +17,8 @@ A passionate software developer from South Africa 🌍
 - [LinkedIn](https://www.linkedin.com/in/sikhoq/)
 - Email: [Gmail](mailto:qangulesikho@gmail.com)
 
-### ⚒ Languages & Tools:![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+### ⚒ Languages & Tools:
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=for-the-badge&logo=amazonaws)
