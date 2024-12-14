@@ -42,8 +42,8 @@ A passionate software developer from South Africa 🌍
 
 
 ### 📊 GitHub Stats:
-![Sikho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SikhoQ&show_icons=true&theme=react)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SikhoQ&langs_count=7&layout=compact&theme=radical)
+![Sikho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SikhoQ&show_icons=true&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SikhoQ&langs_count=8&layout=compact&theme=radical)
 
 ---
 
