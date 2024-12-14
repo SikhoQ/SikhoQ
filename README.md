@@ -1,6 +1,8 @@
 # Hi there, I'm Sikho Qangule 👋
 A passionate software developer from South Africa 🌍
 
+---
+
 🔭 I’m currently working on a **Cloud-based Self-Storage Solution** using **AWS**  
 🔭 Building a **Full-Stack Web Application** with **Spring Boot** and **React**  
 🔭 I’m developing a **CI/CD pipeline** for a personal project using **GitHub Actions**, **Docker**, and **AWS**
@@ -12,12 +14,16 @@ A passionate software developer from South Africa 🌍
 ### 💬 Ask me about:
 - **Java**, **Python**, **Full-stack Development**, **AWS**, **Networking**, **DevOps**
 
+---
+
 ### 📫 Connect with me:
 - [GitHub](https://github.com/SikhoQ/)
 - [LinkedIn](https://www.linkedin.com/in/sikhoq/)
 - Email: [Gmail](mailto:qangulesikho@gmail.com)
 
-### ⚒ Languages & Tools:
+---
+
+### ⚒ Technology Stack ⚒
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
@@ -37,6 +43,7 @@ A passionate software developer from South Africa 🌍
 
 ### 📊 GitHub Stats:
 ![Sikho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SikhoQ&show_icons=true&theme=react)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SikhoQ&langs_count=7&layout=compact&theme=radical)
 
 ---
 
