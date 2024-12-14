@@ -37,11 +37,6 @@ A passionate software developer from South Africa 🌍
 ### 📊 GitHub Stats:
 ![Sikho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SikhoQ&show_icons=true&theme=react)
 
-### 🛠 Pinned Projects:
-- **[Lord of the Grid](https://github.com/YourGitHubUsername/Lord-of-the-Grid)** - A command-line implementation of the Dots and Boxes game.
-- **[Robot Worlds](https://github.com/YourGitHubUsername/Robot-Worlds)** - A client/server application managing a virtual world with robots and obstacles.
-- **[Code Clinics](https://github.com/YourGitHubUsername/Code-Clinics)** - A Python tool automating WeThinkCode's Coding Clinic booking system.
-
 ---
 
 Feel free to check out my repositories and reach out if you'd like to collaborate or chat about tech! 🚀
