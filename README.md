@@ -1,13 +1,13 @@
 # Hi there, I'm Sikho Qangule 👋
 A passionate software developer from South Africa 🌍
 
-🔭 I’m currently working on:
-- **WeShare**: A web app using the MVC pattern with Java, Javalin, and Thymeleaf.
-- **Cloud Elective - Capstone Project**: Implementing a serverless self-storage solution using AWS services.
+🔭 I’m currently working on a **Cloud-based Self-Storage Solution** using **AWS**  
+🔭 Building a **Full-Stack Web Application** with **Spring Boot** and **React**  
+🔭 I’m developing a **CI/CD pipeline** for a personal project using **GitHub Actions**, **Docker**, and **AWS**
 
 🌱 I’m currently learning:
-- Full-stack development (Java, Python, HTML, CSS, JavaScript)
-- DevOps practices and cloud technologies
+- Full-stack development
+- DevOps practices and AWS cloud technologies
 
 ### 💬 Ask me about:
 - **Java**, **Python**, **Full-stack Development**, **AWS**, **Networking**, **DevOps**
