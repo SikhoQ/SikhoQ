@@ -19,7 +19,7 @@ A passionate software developer from South Africa 🌍
 ### 📫 Connect with me:
 - [GitHub](https://github.com/SikhoQ/)
 - [LinkedIn](https://www.linkedin.com/in/sikhoq/)
-- Email: [Gmail](mailto:qangulesikho@gmail.com)
+- [Gmail](mailto:qangulesikho@gmail.com)
 
 ---
 
