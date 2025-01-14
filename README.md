@@ -3,21 +3,7 @@ A passionate software developer from South Africa 🌍
 
 ---
 
-🔭 I’m currently working on a **Cloud-based Self-Storage Solution** using **AWS**  
-🔭 Building a **Full-Stack Web Application** with **Spring Boot** and **React**  
-🔭 I’m developing a **CI/CD pipeline** for a personal project using **GitHub Actions**, **Docker**, and **AWS**
-
-🌱 I’m currently learning:
-- Full-stack development
-- DevOps practices and AWS cloud technologies
-
-### 💬 Ask me about:
-- **Java**, **Python**, **Full-stack Development**, **AWS**, **Networking**, **DevOps**
-
----
-
 ### 📫 Connect with me:
-- [GitHub](https://github.com/SikhoQ/)
 - [LinkedIn](https://www.linkedin.com/in/sikhoq/)
 - [Gmail](mailto:qangulesikho@gmail.com)
 
@@ -39,7 +25,6 @@ A passionate software developer from South Africa 🌍
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
 ![Maven](https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=maven)
 ![Gradle](https://img.shields.io/badge/-Gradle-333?style=for-the-badge&logo=gradle)
-
 
 ### 📊 GitHub Stats:
 ![Sikho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SikhoQ&show_icons=true&layout=compact&theme=radical)
