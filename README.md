@@ -18,13 +18,11 @@ A passionate software developer from South Africa 🌍
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
 ![Javalin](https://img.shields.io/badge/-Javalin-333?style=for-the-badge&logo=javalin)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-333?style=for-the-badge&logo=thymeleaf)
-![SQL](https://img.shields.io/badge/-SQL-333?style=for-the-badge&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333?style=for-the-badge&logo=sqlite)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
 ![Maven](https://img.shields.io/badge/-Maven-333?style=for-the-badge&logo=maven)
-![Gradle](https://img.shields.io/badge/-Gradle-333?style=for-the-badge&logo=gradle)
 
 ### 📊 GitHub Stats:
 ![Sikho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SikhoQ&show_icons=true&layout=compact&theme=radical)
